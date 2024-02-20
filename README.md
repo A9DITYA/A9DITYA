@@ -15,8 +15,7 @@
 
 - 📫 How to Reach me **https://www.linkedin.com/in/a9ditya/**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1KiKlbyV88apT0w6YfgG-oSdm9q5Aabjxe0oCwjcTQ4A/edit?pli=1](https://docs.google.com/document/d/1KiKlbyV88apT0w6YfgG-oSdm9q5Aabjxe0oCwjcTQ4A/edit?pli=1)
-
+- 📄 Know about my experiences --
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/a9ditya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/a9ditya/" height="30" width="40" /></a>
